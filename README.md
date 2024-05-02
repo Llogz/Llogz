@@ -11,4 +11,4 @@ I'm passionate about technology and creating software that improves the lives of
 - 📫 How to reach me: [Telegram](https://t.me/LlogzzSquad), [Discord](https://discord.com/invite/PzYNRNu9Zk)
 - 🎥 TikTok: Follow me on [TikTok](https://www.tiktok.com/@llogz_)
 
-
+---
