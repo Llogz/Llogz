@@ -1,7 +1,5 @@
 # Hello, I'm Artem(Llogzz)! 👨‍💻
 
-I'm passionate about technology and creating software that improves the lives of those around me.
-
 ## About Me
 
 - 📚 I specialize in **C#**, **Python**, **JavaScript**, and **Java**.
